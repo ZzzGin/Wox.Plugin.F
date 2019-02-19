@@ -1,0 +1,12 @@
+{
+    "ID":"594e0c219941705df0f17a9530b3208e",
+    "ActionKeyword":"ff",
+    "Name":"FastFuzzy",
+    "Description":"A fast fuzzy launcher",
+    "Author":"JingQiSu",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/ZzzGin/Wox.Plugin.FastFuzzy",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
